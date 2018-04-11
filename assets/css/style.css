@@ -1,0 +1,29 @@
+#dropdown{
+  /*background-color: red;*/
+
+}
+#container{
+	
+}
+#klip{
+	 padding-top:600px;
+
+}
+#h{
+	text-align: center;
+}
+#logo{
+	float: right;
+	padding: 50px;
+}
+#crew{
+	float: left;
+	padding: 50px;
+	
+}	
+body{
+	/*background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	 background-image: url("../images/crew.jpg");*/
+}
